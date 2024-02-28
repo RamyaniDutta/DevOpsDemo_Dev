@@ -6,11 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="CoreProject_DevOps" />
+        <module name="Proj_DevOpsDev" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DevOpsDevelopmentProj" target="1.7" />
-    </bytecodeTargetLevel>
   </component>
 </project>
